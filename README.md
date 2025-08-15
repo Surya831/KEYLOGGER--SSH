@@ -30,7 +30,8 @@ Cross-platform support (Windows/Linux)
 
 1. Clone the Repository
 
-git clone https://github.com/Surya831/KeyShadow.git
+git clone https://github.com/Surya831/KEYLOGGER--SSH.git
+
 cd KeyShadow
 
 2. Windows Setup
